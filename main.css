@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Tahoma;
+}
+
+div {
+    padding: 10px;
+}
+
+#result {
+    padding: 0px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+form input {
+    display: block;
+    max-width: 75px;
+    font-size: 11px;
+}
+
+form button {
+    font-size: 11px;
+    width: 75px;
+    color: #b97e7e;
+}
+
+form button:hover {
+    cursor: pointer;
+    font-style: italic;
+}
+
+h6 {
+    font-size: 12px;
+    padding: 8px;
+    color: #535252;
+}
+
+p {
+    display: block;
+    max-width: 75px;
+    font-size: 11px;
+    color: #535252;
+}
+
+body {
+    background-color: #ffe5f5;
+}
